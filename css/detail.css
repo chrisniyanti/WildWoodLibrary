@@ -1,0 +1,28 @@
+body{
+  background:black;
+}
+.mainDiv{  
+  background-color:#e19494;
+  height:800px;
+  margin-top:25px;
+  
+  
+}
+.title{
+  font-size:50px;
+  font-family:lobster,monospace;
+}
+.bio{
+  background-color:#e19494;
+  font-size:25px;
+  padding:3px;
+}
+.simg{
+  width:200px;
+}
+p{
+  font-size:22px;
+}
+h3{
+  font-size:27px;
+}

@@ -1,0 +1,40 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    background: #F5F5F5;
+    font-family: lato,sans-serif;
+    color: #2f323e;
+    
+}
+
+.wrapperc {
+    width: 10px;
+    margin-right: 50%;
+    padding-top: 25px;
+   
+
+}
+
+.contentc {
+    background: #F5F5F5;
+    width: 277px;
+    border:3px solid gray;
+}
+
+.date, .time {
+    color: black;
+    font-weight: 300;
+    font-size: 1.5em;
+    text-align: center;
+}
+
+h3{
+    text-align: center;
+}
+
+.time {
+    font-size: 2em;
+}
