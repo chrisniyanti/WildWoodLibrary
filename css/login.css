@@ -89,7 +89,7 @@ input[type=button], input[type=submit], input[type=reset]  {
   background-color: #2f323e;
   border: none;
   color: white;
-  padding: 15px 80px;
+  padding: 15px 50px;
   text-align: center;
   text-decoration: none;
   display: inline-block;

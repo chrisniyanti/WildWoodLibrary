@@ -1904,6 +1904,7 @@ pre code {
     margin-left: 0;
   }
 }
+
 @media (min-width: 1200px) {
   .col-lg-1, .col-lg-2, .col-lg-3, .col-lg-4, .col-lg-5, .col-lg-6, .col-lg-7, .col-lg-8, .col-lg-9, .col-lg-10, .col-lg-11, .col-lg-12 {
     float: left;
@@ -1921,6 +1922,11 @@ pre code {
     width: 65%;
     margin-left: 20px;
   }
+  .col-lg-91 {
+    width: 53%;
+    margin-left: 500px;
+    padding-top: 1px;
+  }
   .col-lg-8 {
     width: 66.66666667%;
   }
@@ -1930,13 +1936,14 @@ pre code {
   .col-lg-6 {
     width: 50%;
   }
+
   .col-lg-5 {
     width: 41.66666667%;
   }
   .col-lg-4 {
     width: 33.33333333%;
   }
-  .col-lg-3 {
+  .col-lg-3{
     width: 30%;
   }
   .col-lg-2 {
@@ -2097,7 +2104,7 @@ td{
 .table > thead > tr > td,
 .table > tbody > tr > td,
 .table > tfoot > tr > td {
-  padding: 8px;
+  padding: 6px;
   line-height: 1.42857143;
   vertical-align: top;
   border-top: 1px solid #ddd;
